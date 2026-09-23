@@ -1,2 +1,9 @@
 # Beacon Broadband RFC 8805 Geofeed
 # ip_prefix,alpha2code,region,city,postal_code
+74.85.208.0/21,US,US-OR,Brookings,
+74.85.216.0/21,US,US-OR,Harbor,
+216.205.96.0/22,US,US-OR,Brookings,
+216.205.100.0/22,US,US-OR,Gold Beach,
+216.205.104.0/22,US,US-OR,Geisel,
+216.204.108.0/22,US,US-OR,Port Orford,
+206.204.224.0/20,US,US-OR,Brookings,
